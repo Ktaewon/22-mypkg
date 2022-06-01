@@ -1,0 +1,6 @@
+{
+    "private": true,
+    "dependencies": {
+        "@ktaewon/22-mypkg": "^0.1.0"
+    }
+}
