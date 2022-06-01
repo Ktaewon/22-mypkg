@@ -1,6 +1,6 @@
 {
     "name" : "@ktaewon/22-mypkg",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "keywords": ["util"],
     "license": "MIT",
     "main" : "main.js",
